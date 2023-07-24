@@ -37,3 +37,7 @@ Adjust form to include new inputs
 Handle in app class
 
 ![A real-time chatting app (1)](https://github.com/mobinxmd/mapFit/assets/126049414/c86c407b-f589-4cc6-8178-c33eef7b1dff)
+
+# Check it out:
+https://mobinxmd.github.io/mapFit/
+
