@@ -35,3 +35,5 @@ The workout class architecture makes it easy to add new workout types:
 Override methods like calcPace() as needed
 Adjust form to include new inputs
 Handle in app class
+
+![A real-time chatting app (1)](https://github.com/mobinxmd/mapFit/assets/126049414/c86c407b-f589-4cc6-8178-c33eef7b1dff)
